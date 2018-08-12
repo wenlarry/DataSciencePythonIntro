@@ -1,1 +1,1 @@
-# pythonAppliedDataScience
+# DataScienceIntroPython_Michigan_U
